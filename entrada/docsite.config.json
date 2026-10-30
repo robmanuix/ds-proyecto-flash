@@ -1,0 +1,24 @@
+{
+  "cliente": "Proyecto Flash",
+  "marca": "Proyecto Flash",
+  "base": "calma",
+  "plataformas": [
+    "web",
+    "ios",
+    "android"
+  ],
+  "version": "1.1.0",
+  "generado": "2026-10-30",
+  "archivoFigma": "Proyecto Flash",
+  "colores": [
+    {
+      "nombre": "Brand",
+      "hex": "#0CD498"
+    },
+    {
+      "nombre": "Secondary",
+      "hex": "#5279DA"
+    }
+  ],
+  "tipografia": "Raleway"
+}
